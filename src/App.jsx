@@ -2,7 +2,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
-import Flow from './coponents/Flow';
+import Flow from './components/Flow';
 function App() {
   return (
     <Router>
